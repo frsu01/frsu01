@@ -6,13 +6,13 @@ I'm a Full Stack Software Engineer and Product Manager with a focus on Digital T
 
 ## Developer Roles
 
-- 💼 **Product Engineer** at Kurios (YC S21): Evaluated, designed, and developed SaaS products, implementing technical documentation and testing tools, including AI models and personalized virtual assistants.
-- 👨‍💻 **Full Stack Software Engineer Jr.** at Kurios (YC S21): Developed and maintained the company's technological infrastructure, improving performance and designing RESTful APIs.
+- 💼 **Product Engineer (2023)** at [Kurios](https://www.kurios.la/) (YC S21): Evaluated, designed, and developed SaaS products, implementing technical documentation and testing tools, including AI models and personalized virtual assistants.
+- 👨‍💻 **Full Stack Software Engineer Jr. (2021)** at [Kurios](https://www.kurios.la/): Developed and maintained the company's technological infrastructure, improving performance and designing RESTful APIs.
 
 ## Entrepreneurship Roles
 
-- 🚀 **Founder and Consultant in Digital Transformation** at Pritxi Solutions: Implemented digital transformation strategies, collaborating directly with clients to customize solutions focused on software implementation (CRM integration and Business Intelligence tools) and agile methodologies (Scrum and Kanban).
-- 🌱 **Co-founder and Technology Leader** at Omega Asesoría: Led digital transformation through the development of web infrastructure, increasing student enrollment via user attraction campaigns.
+- 🚀 **Founder and Consultant in Digital Transformation (2024)** at [Pritxi Solutions](https://www.linkedin.com/company/pritxi-solutions/): Implemented digital transformation strategies, collaborating directly with clients to customize solutions focused on software implementation (CRM integration and Business Intelligence tools) and agile methodologies (Scrum and Kanban).
+- 🌱 **Co-founder and Technology Leader (2020)** at Omega Asesoría: Led digital transformation through the development of web infrastructure, increasing student enrollment via user attraction campaigns.
 
 ## Technical Skills 🛠️
 
