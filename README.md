@@ -4,9 +4,14 @@ I'm a Product Manager and Product Owner with a focus on Digital Transformation, 
 
 ## About Me 🌟
 
-- 🚀 **Founder and Consultant in Digital Transformation** at Pritxi Solutions: Implemented digital transformation strategies, collaborating directly with clients to customize solutions focused on software implementation (CRM integration and Business Intelligence tools) and agile methodologies (Scrum and Kanban).
+## Developer Roles
+
 - 💼 **Product Engineer** at Kurios (YC S21): Evaluated, designed, and developed SaaS products, implementing technical documentation and testing tools, including AI models and personalized virtual assistants.
 - 👨‍💻 **Full Stack Software Engineer Jr.** at Kurios (YC S21): Developed and maintained the company's technological infrastructure, improving performance and designing RESTful APIs.
+
+## Entrepreneurship Roles
+
+- 🚀 **Founder and Consultant in Digital Transformation** at Pritxi Solutions: Implemented digital transformation strategies, collaborating directly with clients to customize solutions focused on software implementation (CRM integration and Business Intelligence tools) and agile methodologies (Scrum and Kanban).
 - 🌱 **Co-founder and Technology Leader** at Omega Asesoría: Led digital transformation through the development of web infrastructure, increasing student enrollment via user attraction campaigns.
 
 ## Technical Skills 🛠️
@@ -19,8 +24,8 @@ I'm a Product Manager and Product Owner with a focus on Digital Transformation, 
 
 ## Notable Projects 💼
 
-- [CRM and BI Implementation at Pritxi Solutions](#): Increased revenue by 9.0% and reduced operational costs by 7.6%.
-- [Development of 5 SaaS platforms at Kurios](#): Collaborated on the design and development, including AI models for data analysis and virtual assistants.
+- **CRM and BI Implementation at Pritxi Solutions:** Increased revenue by 9.0% and reduced operational costs by 7.6%.
+- **Development of 5 SaaS platforms at Kurios:** Collaborated on the design and development, including AI models for data analysis and virtual assistants.
 
 ## Education 🎓
 
