@@ -1,6 +1,6 @@
 # Hi! I'm Fabrizio Raúl Sebastiani Ugarte 👋
 
-I'm a Product Manager and Product Owner with a focus on Digital Transformation, based in Lima, Peru. I have over three years of experience in software development and education, specializing in agile methodologies and technological solutions that increase revenue and reduce costs.
+I'm a Full Stack Software Engineer and Product Manager with a focus on Digital Transformation and software development, based in Lima, Peru. My tech stack is python, Typescript and JavaScript. I work with Django (for Backend) and React (for Frontend) frameworks. Also, I display with AWS, Railway and Heroky. I have experience using API's, RESTApi and PostgreSQL and MySQL for database management / ORM. I love startup's enviroment and the capacity of innovation!
 
 ## About Me 🌟
 
