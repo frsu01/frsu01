@@ -22,19 +22,19 @@ I'm a Product Manager and Product Owner with a focus on Digital Transformation, 
 - [CRM and BI Implementation at Pritxi Solutions](#): Increased revenue by 9.0% and reduced operational costs by 7.6%.
 - [Development of 5 SaaS platforms at Kurios](#): Collaborated on the design and development, including AI models for data analysis and virtual assistants.
 
-## Education and Certifications 🎓
+## Education 🎓
 
 - **Bachelor's Degree in Business Engineering** - Universidad del Pacífico
-- **Certifications:** B2B Growth, Product Management Execution, Customer Centricity, Digital Product Management, Fundamentals of Project Planning and Management
+
+## Certifications 🎓 
+- [B2B Growth](https://certificates.kurios.la/b2b-growth-strategy-fabrizio-sebastiani)
+- [Product Management Execution](https://certificates.kurios.la/product-management-execution-fabrizio-sebastiani)
+- [Customer Centricity](https://certificates.kurios.la/customer-centricity-working-backwards-fabrizio-sebastiani)
+- [Digital Product Management](https://certificates.kurios.la/digital-product-management-fabrizio-sebastiani)
+- [Fundamentals of Project Planning and Management](https://coursera.org/share/186c74af7dc058b4473c60befc4daa8f)
 
 ## Contact 📫
 
 - [LinkedIn](https://linkedin.com/in/fabriziosebastianiu)
 - [Email](mailto:fsebastiani2000@gmail.com)
 - [Phone: +51 970 569 501](tel:+51970569501)
-
-<footer align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/fabriziosebastianiu)
-  &nbsp;|&nbsp;
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fsebastiani2000@gmail.com)
-</footer>
